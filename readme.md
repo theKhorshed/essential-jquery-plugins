@@ -122,6 +122,8 @@ blurred elements over other elements
 [FixTop](http://nnattawat.github.io/fixtop/): A jQuery plugin to fix DOM element to the top when a page scrolls to its position  
 [jQuery FormChimp](http://www.fabioquarantini.com/formchimp/): MailChimp ajax plugin for jQuery
 
+[notie.js](https://jaredreich.com/projects/notie.js/): A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies.
+
 
 
 ###UI Elements - Responsive Menu
